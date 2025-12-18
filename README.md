@@ -25,3 +25,9 @@ I’m still learning and improving every day, aiming to build maintainable, well
 아직 배워가는 단계이지만,  
 구조가 명확하고 사용하기 좋은 UI를 만드는 개발자가 되기 위해  
 꾸준히 학습하고 프로젝트를 통해 경험을 쌓고 있습니다.
+
+
+### 🛠 Tech Stack
+- Frontend: React, TypeScript, JavaScript
+- Markup & Style: HTML, CSS
+- Background: c/c++ Unreal Engine (Game Development)
