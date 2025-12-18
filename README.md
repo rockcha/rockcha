@@ -2,6 +2,7 @@
 
 🌐 **English**
 Hi, I'm a web developer who started my journey with game development using Unreal Engine.
+
 I was first introduced to programming through game development, where I learned how to think in terms of systems, performance, and user interaction. Working with Unreal Engine helped me understand core concepts such as real-time rendering, event-driven logic, and structured problem solving.
 
 Based on this experience, I transitioned into web development and am currently focusing on front-end development. I work mainly with HTML, CSS, JavaScript, React, and TypeScript, and I enjoy building user-friendly interfaces with clean structure and thoughtful UX.
@@ -13,6 +14,7 @@ Moving forward, I aim to grow as a front-end developer with a strong understandi
 
 🇰🇷 **한국어**
 안녕하세요. 언리얼 엔진을 활용한 게임 개발 경험을 바탕으로 웹 개발을 하고 있는 개발자입니다.
+
 처음 프로그래밍을 접한 계기는 게임 개발이었고, 언리얼 엔진을 사용하며 시스템 단위로 사고하는 방식, 성능을 고려한 구조 설계, 그리고 사용자 인터랙션에 대한 이해를 쌓을 수 있었습니다. 이 과정에서 실시간 처리, 이벤트 기반 로직, 문제를 구조적으로 해결하는 사고방식을 익혔습니다.
 
 이러한 경험을 기반으로 웹 개발로 영역을 확장하였고, 현재는 프론트엔드 개발에 집중하고 있습니다. HTML, CSS, JavaScript를 기반으로 React와 TypeScript를 활용해 사용자 친화적인 UI와 명확한 구조의 화면을 만드는 것을 좋아합니다.
