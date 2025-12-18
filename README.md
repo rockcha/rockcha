@@ -1,5 +1,5 @@
 ## Hi there 👋  
-I'm a developer who started with game development and is now growing as a web developer.
+I'm a web developer focused on front-end development, with a background in Unreal Engine game development.
 
 ---
 
