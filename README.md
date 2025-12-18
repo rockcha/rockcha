@@ -29,5 +29,6 @@ I’m still learning and improving every day, aiming to build maintainable, well
 
 ### 🛠 Tech Stack
 - Frontend: React, TypeScript, JavaScript
-- Markup & Style: HTML, CSS
+- Styling: HTML, CSS, Tailwind CSS
+- Backend / BaaS: Supabase
 - Background: c/c++ Unreal Engine (Game Development)
