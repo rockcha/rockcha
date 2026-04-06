@@ -3,21 +3,27 @@ I'm a front-end developer focused on building modern web applications with React
 
 ---
 
-🌐 **English**
+🇺🇸 **English**
 
-I started my programming journey with game development using Unreal Engine, where I developed strong skills in system thinking, performance optimization, and interactive user experience.
+Hello,
+I am a developer who started with game development using Unreal Engine and am currently focusing on frontend development.
 
-Building on that foundation, I am now focused on front-end web development using **React, Next.js, and TypeScript**.  
-I enjoy creating clean, intuitive user interfaces and understanding how design, UX, and application logic come together in real-world products.
+Through game development, I learned how to think systematically, as well as the importance of performance optimization and user interaction.
+Now, I am concentrating on web development with a focus on React, Next.js, and TypeScript.
 
-Recently, I’ve been working on projects using **Next.js App Router**, exploring server/client components, data fetching strategies, and building scalable UI architectures.
+After completing the Hancom AI Academy (2nd cohort), I worked as a frontend developer in the team project “Don't Kill My Vibe.”
+We built a system that evaluates coding performance through a VS Code extension, and implemented a web service that stores, visualizes, and provides statistical insights based on the results.
+Our team was recognized for its performance and selected as the best team.
 
-In addition, I run a YouTube channel in a lecture-style format  
-👉 https://www.youtube.com/@codingfrog_kr  
+In addition, I run a YouTube channel in a lecture-style format:
+👉 https://www.youtube.com/@codingfrog_kr
 
-Through this, I organize my knowledge and practice explaining technical concepts clearly to others, which helps me deepen my understanding and improve communication skills as a developer.
+Through this, I organize what I’ve learned and practice explaining it to others.
+This process helps me deepen my understanding and improve my ability to communicate technical concepts clearly.
 
-I aim to write maintainable, well-structured code and continuously grow through hands-on projects and collaboration.
+Although I am still growing as a developer,
+I aim to build maintainable and well-structured applications,
+and I continue to improve through consistent learning and hands-on projects.
 
 ---
 
