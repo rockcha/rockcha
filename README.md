@@ -12,7 +12,7 @@ Through game development, I learned how to think systematically, as well as the 
 Now, I am concentrating on web development with a focus on React, Next.js, and TypeScript.
 
 After completing the Hancom AI Academy (2nd cohort), I worked as a frontend developer in the team project “Don't Kill My Vibe.”
-We built a system that evaluates coding performance through a VS Code extension, and implemented a web service that stores, visualizes, and provides statistical insights based on the results.
+We built a system that evaluates AI-assisted coding skills through a VS Code extension, and implemented a web service that stores, visualizes, and provides statistical insights based on the results.
 Our team was recognized for its performance and selected as the best team.
 
 In addition, I run a YouTube channel in a lecture-style format:
@@ -36,7 +36,7 @@ and I continue to improve through consistent learning and hands-on projects.
 현재는 **React, Next.js, TypeScript 중심의 웹 개발**에 집중하고 있습니다.
 
 한컴 AI 아카데미 2기 수료 후, ‘Don't Kill My Vibe’ 팀 프로젝트에서 프론트엔드 개발을 담당하였습니다.
-VS Code Extension을 통해 바이브 코딩 실력을 점수화하고, 해당 결과를 웹에 저장 및 시각화하여 다양한 통계를 제공하는 서비스를 구현하였으며, 최우수 팀으로 선정되었습니다.
+VS Code Extension을 통해 AI를 활용한 바이브 코딩 실력을 점수화하고, 해당 결과를 웹에 저장 및 시각화하여 다양한 통계를 제공하는 서비스를 구현하였으며, 최우수 팀으로 선정되었습니다.
 
 또한 강의 형태의 유튜브 채널을 운영하며  
 👉 https://www.youtube.com/@codingfrog_kr  
