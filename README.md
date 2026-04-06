@@ -29,9 +29,8 @@ I aim to write maintainable, well-structured code and continuously grow through 
 게임 개발을 통해 시스템적으로 사고하는 법과 성능, 사용자 인터랙션의 중요성을 배웠으며,  
 현재는 **React, Next.js, TypeScript 중심의 웹 개발**에 집중하고 있습니다.
 
-최근에는 Next.js의 App Router를 활용하여  
-서버/클라이언트 컴포넌트 구조와 데이터 패칭 방식에 대해 학습하고 있으며,  
-확장 가능한 UI 구조와 코드 설계에 관심을 가지고 있습니다.
+한컴 AI 아카데미 2기 수료 후, ‘Don't Kill My Vibe’ 팀 프로젝트에서 프론트엔드 개발을 담당하였습니다.
+VS Code Extension을 통해 바이브 코딩 실력을 점수화하고, 해당 결과를 웹에 저장 및 시각화하여 다양한 통계를 제공하는 서비스를 구현하였으며, 최우수 팀으로 선정되었습니다.
 
 또한 강의 형태의 유튜브 채널을 운영하며  
 👉 https://www.youtube.com/@codingfrog_kr  
